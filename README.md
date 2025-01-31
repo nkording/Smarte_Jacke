@@ -10,7 +10,8 @@ Die Komponenten für die Elektronik sind im Einzelhandel erhältlich. Zum Zusamm
 
 Die smarte Jacke kann beim Gehen und Fahrradfahren einen Sturz erkennen und einen Alarm mit Licht und Lärm erzeugen sowie einem Notfallkontakt eine SMS schicken. Des Weiteren kann der Alarm auch über einen Taster aktiviert werden und so als Panikknopf verwendet werden.
 
-Open Source Bild
+![Open_Source](https://github.com/user-attachments/assets/ad399da7-2061-448f-ab3d-4f410a5f36d8)
+
 
 # Montageanleitung
 
